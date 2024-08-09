@@ -77,7 +77,7 @@ struct ContentView: View {
                 
             case .restricted, .denied:
                 userLat = "Denied/Restricted"
-                userLon = "Denied/Restried"
+                userLon = "Denied/Restricted"
             case .notDetermined:
                 userLat = "Not Determined"
                 userLon = "Not Determined"
