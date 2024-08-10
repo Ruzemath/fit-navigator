@@ -26,22 +26,22 @@ The application is built using **Model-View-ViewModel (MVVM)** architecture, ens
 Here are screenshots of the Fitness Task Tracker:
 
 ### Main Menu 
-![Main Menu](Screenshots/main_menu.png) <br>
+<img src="Screenshots/main_menu.png" alt="Main Menu" width="300"/> <br>
 
 ### User Profile
-![User Profile](Screenshots/profile.png) <br>
+<img src="Screenshots/profile.png" alt="User Profile" width="300"/> <br>
 
 ### Current Tasks
-![Ongoing Tasks View](Screenshots/task_table.png) <br>
+<img src="Screenshots/task_table.png" alt="Ongoing Tasks View" width="300"/> <br>
 
 ### Adding A Task
-![Adding A Task](Screenshots/add_task.png) <br>
+<img src="Screenshots/add_task.png" alt="Adding A Task" width="300"/> <br>
 
 ### Example Task
-![An Example Task](Screenshots/task_example.png) <br>
+<img src="Screenshots/task_example.png" alt="An Example Task" width="300"/> <br>
 
 ### Task History/Log
-![A History Of Completed Tasks](Screenshots/task_history.png) <br>
+<img src="Screenshots/task_history.png" alt="A History Of Completed Tasks" width="300"/> <br>
 
 ### Nearby Gyms
-![Map Of Nearby Gyms](Screenshots/nearby_gyms.png) <br>
+<img src="Screenshots/nearby_gyms.png" alt="Map Of Nearby Gyms" width="300"/> <br>
