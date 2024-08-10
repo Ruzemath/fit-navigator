@@ -24,49 +24,27 @@ The application is built using **Model-View-ViewModel (MVVM)** architecture, ens
 
 ## Screenshots
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-
-  <div style="text-align: center;">
-    <p><strong>Main Menu</strong></p>
-    <img src="Screenshots/main_menu.png" alt="Main Menu" width="300"/>
+<div style="text-align: center;">
+  <h3>Main Menu and User Profile</h3>
+  <div style="display: flex; justify-content: center; gap: 20px;">
+      <img src="Screenshots/main_menu.png" alt="Main Menu" width="300"/>
+      <img src="Screenshots/profile.png" alt="User Profile" width="300"/>
   </div>
 
-  <div style="text-align: center;">
-    <p><strong>User Profile</strong></p>
-    <img src="Screenshots/profile.png" alt="User Profile" width="300"/>
+  <h3>Current Tasks and Adding A Task</h3>
+  <div style="display: flex; justify-content: center; gap: 20px;">
+      <img src="Screenshots/task_table.png" alt="Ongoing Tasks View" width="300"/>
+      <img src="Screenshots/add_task.png" alt="Adding A Task" width="300"/>
   </div>
 
-</div>
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px;">
-
-  <div style="text-align: center;">
-    <p><strong>Ongoing Tasks View</strong></p>
-    <img src="Screenshots/task_table.png" alt="Ongoing Tasks View" width="300"/>
+  <h3>Example Task and Task History/Log</h3>
+  <div style="display: flex; justify-content: center; gap: 20px;">
+      <img src="Screenshots/task_example.png" alt="An Example Task" width="300"/>
+      <img src="Screenshots/task_history.png" alt="A History Of Completed Tasks" width="300"/>
   </div>
 
-  <div style="text-align: center;">
-    <p><strong>Adding A Task</strong></p>
-    <img src="Screenshots/add_task.png" alt="Adding A Task" width="300"/>
+  <h3>Nearby Gyms</h3>
+  <div style="display: flex; justify-content: center; gap: 20px;">
+      <img src="Screenshots/nearby_gyms.png" alt="Map Of Nearby Gyms" width="300"/>
   </div>
-
-</div>
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px;">
-
-  <div style="text-align: center;">
-    <p><strong>An Example Task</strong></p>
-    <img src="Screenshots/task_example.png" alt="An Example Task" width="300"/>
-  </div>
-
-  <div style="text-align: center;">
-    <p><strong>A History Of Completed Tasks</strong></p>
-    <img src="Screenshots/task_history.png" alt="A History Of Completed Tasks" width="300"/>
-  </div>
-
-</div>
-
-<div style="text-align: center; margin-top: 20px;">
-  <p><strong>Map Of Nearby Gyms</strong></p>
-  <img src="Screenshots/nearby_gyms.png" alt="Map Of Nearby Gyms" width="300"/>
 </div>
