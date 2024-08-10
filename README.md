@@ -16,32 +16,32 @@ The application is built using **Model-View-ViewModel (MVVM)** architecture, ens
   - Complete Tasks
   - View Task History
 
-  * Points
-    - Accumulate Points Based On Task Completion
+* Points
+  - Accumulate Points Based On Task Completion
 
-  * Find Gyms Nearby
-    - View Nearest Gyms Based On Your Current Location
+* Find Gyms Nearby
+  - View Nearest Gyms Based On Your Current Location
 
 ## Screenshots
 Here are screenshots of the Fitness Task Tracker:
 
-### Main Menu
-![Main Menu](Screenshots/main_menu.png)
+### Main Menu 
+![Main Menu](Screenshots/main_menu.png) <br>
 
 ### User Profile
-![User Profile](Screenshots/profile.png)
+![User Profile](Screenshots/profile.png) <br>
 
 ### Current Tasks
-![Ongoing Tasks View](Screenshots/task_table.png)
+![Ongoing Tasks View](Screenshots/task_table.png) <br>
 
 ### Adding A Task
-![Adding A Task](Screenshots/add_task.png)
+![Adding A Task](Screenshots/add_task.png) <br>
 
 ### Example Task
-![An Example Task](Screenshots/task_example.png)
+![An Example Task](Screenshots/task_example.png) <br>
 
 ### Task History/Log
-![A History Of Completed Tasks](Screenshots/task_history.png)
+![A History Of Completed Tasks](Screenshots/task_history.png) <br>
 
 ### Nearby Gyms
-![Map Of Nearby Gyms](Screenshots/nearby_gyms.png)
+![Map Of Nearby Gyms](Screenshots/nearby_gyms.png) <br>
