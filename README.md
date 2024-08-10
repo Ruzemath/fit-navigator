@@ -24,23 +24,23 @@ The application is built using **Model-View-ViewModel (MVVM)** architecture, ens
 
 ## Screenshots
 
-<div style="text-align: center;">
+<div style="text-align: center;">  
   <h3>Main Menu and User Profile</h3>
   <div style="display: flex; justify-content: center; gap: 20px;">
       <img src="Screenshots/main_menu.png" alt="Main Menu" width="300"/>
       <img src="Screenshots/profile.png" alt="User Profile" width="300"/>
   </div>
 
-  <h3>Current Tasks and Adding A Task</h3>
+  <h3>Current Tasks and Task History/Log</h3>
   <div style="display: flex; justify-content: center; gap: 20px;">
       <img src="Screenshots/task_table.png" alt="Ongoing Tasks View" width="300"/>
-      <img src="Screenshots/add_task.png" alt="Adding A Task" width="300"/>
+      <img src="Screenshots/task_history.png" alt="A History Of Completed Tasks" width="300"/>
   </div>
 
-  <h3>Example Task and Task History/Log</h3>
+  <h3>Example Task and Adding A Task</h3>
   <div style="display: flex; justify-content: center; gap: 20px;">
       <img src="Screenshots/task_example.png" alt="An Example Task" width="300"/>
-      <img src="Screenshots/task_history.png" alt="A History Of Completed Tasks" width="300"/>
+      <img src="Screenshots/add_task.png" alt="Adding A Task" width="300"/>
   </div>
 
   <h3>Nearby Gyms</h3>
