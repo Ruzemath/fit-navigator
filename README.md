@@ -37,10 +37,10 @@ The application is built using **Model-View-ViewModel (MVVM)** architecture, ens
       <img src="Screenshots/task_history.png" alt="A History Of Completed Tasks" width="300"/>
   </div>
 
-  <h3>Example Task and Adding A Task</h3>
+  <h3> Adding A Task and Example Task</h3>
   <div style="display: flex; justify-content: center; gap: 20px;">
-      <img src="Screenshots/task_example.png" alt="An Example Task" width="300"/>
       <img src="Screenshots/add_task.png" alt="Adding A Task" width="300"/>
+    <img src="Screenshots/task_example.png" alt="An Example Task" width="300"/>
   </div>
 
   <h3>Nearby Gyms</h3>
