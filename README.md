@@ -27,7 +27,7 @@ The application is built using **Model-View-ViewModel (MVVM)** architecture, ens
 <div style="text-align: center;">  
   <div>
     <h3>Main Menu and User Profile</h3>
-    <div style="display: flex; justify-content: center; gap: 30px;">
+    <div style="display: flex; justify-content: center; gap: 60px;">
         <img src="Screenshots/main_menu.png" alt="Main Menu" width="300"/>
         <img src="Screenshots/profile.png" alt="User Profile" width="300"/>
     </div>
@@ -35,7 +35,7 @@ The application is built using **Model-View-ViewModel (MVVM)** architecture, ens
 
   <div>
     <h3>Current Tasks and Task History/Log</h3>
-    <div style="display: flex; justify-content: center; gap: 30px;">
+    <div style="display: flex; justify-content: center; gap: 60px;">
         <img src="Screenshots/task_table.png" alt="Ongoing Tasks View" width="300"/>
         <img src="Screenshots/task_history.png" alt="A History Of Completed Tasks" width="300"/>
     </div>
@@ -43,7 +43,7 @@ The application is built using **Model-View-ViewModel (MVVM)** architecture, ens
 
   <div>
     <h3>Adding A Task and Example Task</h3>
-    <div style="display: flex; justify-content: center; gap: 30px;">
+    <div style="display: flex; justify-content: center; gap: 60px;">
         <img src="Screenshots/add_task.png" alt="Adding A Task" width="300"/>
         <img src="Screenshots/task_example.png" alt="An Example Task" width="300"/>
     </div>
@@ -51,7 +51,7 @@ The application is built using **Model-View-ViewModel (MVVM)** architecture, ens
 
   <div>
     <h3>Nearby Gyms</h3>
-    <div style="display: flex; justify-content: center; gap: 30px;">
+    <div style="display: flex; justify-content: center; gap: 60px;">
         <img src="Screenshots/nearby_gyms.png" alt="Map Of Nearby Gyms" width="300"/>
     </div>
   </div>
