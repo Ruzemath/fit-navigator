@@ -24,25 +24,49 @@ The application is built using **Model-View-ViewModel (MVVM)** architecture, ens
 
 ## Screenshots
 
-### Main Menu and User Profile
-<div style="display: flex; flex-wrap: wrap;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+
+  <div style="text-align: center;">
+    <p><strong>Main Menu</strong></p>
     <img src="Screenshots/main_menu.png" alt="Main Menu" width="300"/>
+  </div>
+
+  <div style="text-align: center;">
+    <p><strong>User Profile</strong></p>
     <img src="Screenshots/profile.png" alt="User Profile" width="300"/>
+  </div>
+
 </div>
 
-### Current Tasks and Adding A Task
-<div style="display: flex; flex-wrap: wrap;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px;">
+
+  <div style="text-align: center;">
+    <p><strong>Ongoing Tasks View</strong></p>
     <img src="Screenshots/task_table.png" alt="Ongoing Tasks View" width="300"/>
+  </div>
+
+  <div style="text-align: center;">
+    <p><strong>Adding A Task</strong></p>
     <img src="Screenshots/add_task.png" alt="Adding A Task" width="300"/>
+  </div>
+
 </div>
 
-### Example Task and Task History/Log
-<div style="display: flex; flex-wrap: wrap;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px;">
+
+  <div style="text-align: center;">
+    <p><strong>An Example Task</strong></p>
     <img src="Screenshots/task_example.png" alt="An Example Task" width="300"/>
+  </div>
+
+  <div style="text-align: center;">
+    <p><strong>A History Of Completed Tasks</strong></p>
     <img src="Screenshots/task_history.png" alt="A History Of Completed Tasks" width="300"/>
+  </div>
+
 </div>
 
-### Nearby Gyms
-<div style="display: flex; flex-wrap: wrap;">
-    <img src="Screenshots/nearby_gyms.png" alt="Map Of Nearby Gyms" width="300"/>
+<div style="text-align: center; margin-top: 20px;">
+  <p><strong>Map Of Nearby Gyms</strong></p>
+  <img src="Screenshots/nearby_gyms.png" alt="Map Of Nearby Gyms" width="300"/>
 </div>
