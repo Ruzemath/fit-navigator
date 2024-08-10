@@ -23,25 +23,26 @@ The application is built using **Model-View-ViewModel (MVVM)** architecture, ens
   - View Nearest Gyms Based On Your Current Location
 
 ## Screenshots
-Here are screenshots of the Fitness Task Tracker:
 
-### Main Menu 
-<img src="Screenshots/main_menu.png" alt="Main Menu" width="300"/> <br>
+### Main Menu and User Profile
+<div style="display: flex; flex-wrap: wrap;">
+    <img src="Screenshots/main_menu.png" alt="Main Menu" width="300"/>
+    <img src="Screenshots/profile.png" alt="User Profile" width="300"/>
+</div>
 
-### User Profile
-<img src="Screenshots/profile.png" alt="User Profile" width="300"/> <br>
+### Current Tasks and Adding A Task
+<div style="display: flex; flex-wrap: wrap;">
+    <img src="Screenshots/task_table.png" alt="Ongoing Tasks View" width="300"/>
+    <img src="Screenshots/add_task.png" alt="Adding A Task" width="300"/>
+</div>
 
-### Current Tasks
-<img src="Screenshots/task_table.png" alt="Ongoing Tasks View" width="300"/> <br>
-
-### Adding A Task
-<img src="Screenshots/add_task.png" alt="Adding A Task" width="300"/> <br>
-
-### Example Task
-<img src="Screenshots/task_example.png" alt="An Example Task" width="300"/> <br>
-
-### Task History/Log
-<img src="Screenshots/task_history.png" alt="A History Of Completed Tasks" width="300"/> <br>
+### Example Task and Task History/Log
+<div style="display: flex; flex-wrap: wrap;">
+    <img src="Screenshots/task_example.png" alt="An Example Task" width="300"/>
+    <img src="Screenshots/task_history.png" alt="A History Of Completed Tasks" width="300"/>
+</div>
 
 ### Nearby Gyms
-<img src="Screenshots/nearby_gyms.png" alt="Map Of Nearby Gyms" width="300"/> <br>
+<div style="display: flex; flex-wrap: wrap;">
+    <img src="Screenshots/nearby_gyms.png" alt="Map Of Nearby Gyms" width="300"/>
+</div>
