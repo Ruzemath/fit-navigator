@@ -1,7 +1,7 @@
-# Fitness Task Tracker
+# FitNavigator
 
 ## Overview
-**Fitness Task Tracker** is a Swift-based iOS application designed to help users manage their fitness routines effectively. The app allows users to track their fitness tasks, view progress, earn points, create a user profile, and locate nearby gyms. <br>
+**FitNavigator** is a Swift-based iOS application designed to help users manage their fitness routines effectively. The app allows users to track their fitness tasks, view progress, earn points, create a user profile, and locate nearby gyms. <br>
 The application is built using **Model-View-ViewModel (MVVM)** architecture, ensuring a clean separation of layers where the user interface (UI), data, and logic are separated to ensure better reusability and functionality. 
 
 ## Features
